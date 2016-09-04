@@ -15,7 +15,7 @@ Escrevi também como o fluxo de publicação de Artigos deve funcionar, assim qu
 
 Eis que numa mesa de bar, surge a ideia de criar artigos.
 
-## Workflow de colaboração
+## Workflow para colaboração
 Para colaborar com algum artigo, o autor deve seguir o seguinte fluxo:
 
 1. Abrir uma [issue](https://github.com/douglasalexandre/douglasalexandre.github.io/issues) contendo:
@@ -65,13 +65,14 @@ Você já pode ir fazendo Pull Request do seu artigo dentro do diretório [`_pos
 
 **É muito importante seu artigo estar pronto alguns dias antes da data de publicação, caso contrário medidas serão tomadas para manter as publicações diárias.**
 
-## Como rodar localmente
+## Como executar na sua máquina
 1. Pelo terminal, vá ao diretório raíz onde o projeto está localizado
 2. Caso não possua o Bundler instalado, execute `sudo gem install bundler`
 2. Se for a primeira vez que você irá rodar esse projeto, execute `bundle install` para garantir que todas as dependências que o projeto utiliza existem. Caso negativo, o download será efetuado
 2. Execute `jekyll serve` ou simplesmente `jekyll s`
-3. Confira qual foi o *Server Address* gerado pelo jekyll ![](img/jekyll-path.png)
+3. Confira qual foi o **Server Address** gerado pelo jekyll ![](img/jekyll-path.png)
 4. Abra o navegador e entre no endereço
 
 ## Data de Publicação
+
 
